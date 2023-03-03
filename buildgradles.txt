@@ -1,0 +1,3 @@
+Lệnh build .project:
+./gradlew clean
+./gradlew --refresh-dependencies cleanEclipse eclipse
